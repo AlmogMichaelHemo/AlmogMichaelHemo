@@ -4,9 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-I've been programming in Python for 6 years and in C# for 3 years, using OOP, Data structures, Access Database, Socket Communication, and more. 
-Hope you will enjoy my projects (;
-
+Hey there, I'm Almog.
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
